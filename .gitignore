@@ -2,3 +2,5 @@
 *-bak
 output/
 .DS_Store
+~*
+*gerbers/
